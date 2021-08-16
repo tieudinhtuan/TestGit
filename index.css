@@ -1,4 +1,6 @@
 button{
     background-color: Red;
 }
-button:hover {backgorund-color:yellow}
+button:hover {
+    background-color:yellow
+}
